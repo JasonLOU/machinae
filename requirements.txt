@@ -1,0 +1,16 @@
+defang
+relatime
+urllib3
+stopit
+feedparser
+beautifulsoup4
+python_dateutil
+python_magic
+PyYAML
+requests
+tzlocal
+pytz
+dnspython3
+ipwhois
+html5lib
+
